@@ -208,7 +208,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var dialogflowURL = 'https://us-central1-fireship-lessons.cloudfunctions.net/dialogflowGateway';
+var dialogflowURL = 'https://bot.dialogflow.com/13f59b61-aadb-4937-a0b7-22991cc4ad8d ';
 var ChatbotComponent = /** @class */ (function () {
     function ChatbotComponent(http) {
         this.http = http;

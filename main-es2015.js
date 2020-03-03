@@ -199,7 +199,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const dialogflowURL = 'https://us-central1-fireship-lessons.cloudfunctions.net/dialogflowGateway';
+const dialogflowURL = 'https://bot.dialogflow.com/13f59b61-aadb-4937-a0b7-22991cc4ad8d ';
 let ChatbotComponent = class ChatbotComponent {
     constructor(http) {
         this.http = http;
